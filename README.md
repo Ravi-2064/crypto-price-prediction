@@ -7,10 +7,10 @@ Cryptocurrency Price Prediction Using LSTM neural network
 If you find this code useful in your research, please consider citing the blog:
 
 ```
-@misc{sagarcryptocurrency,
-  Author = {Abhinav Sagar},
+@misc{Vermacryptocurrency,
+  Author = {Ravi Verma},
   Title = {Cryptocurrency Price Prediction Using Deep Learning},
-  Year = {2019},
+  Year = {2022},
   Journal = {Towards Data Science},
 }
 ```
